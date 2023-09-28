@@ -10,7 +10,7 @@ export default function Profile() {
 
   return (
     <div className="Profile">
-      <p>SeePASS</p>
+      <p>Domain</p>
       {domain && <p>{domain}</p>}
     </div>
   );
